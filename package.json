@@ -1,6 +1,7 @@
 {
-	"author": "Lakshay Tyagi",
+
 	"name": "fcc-learn-npm-package-json",
+	"author": "Lakshay Tyagi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
